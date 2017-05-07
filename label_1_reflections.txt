@@ -1,0 +1,18 @@
+Although I used a windows fc command to view the differences, I found that diff
+was able to side by side compare file lines and the +/- made finding difference
+s easy. I did not like how results were stacked vertically.
+
+Not sure how version control could make you a better programmer :/
+
+Pros, easier to follow previous versions, but cons are that logical
+saves are individual to each person and subjective
+
+Git believe files in software code are related or built upon another,
+which helps show overall impact of one commit more accurately
+
+View changes to files with git logs and changes within files with
+git diff.
+
+Ability to chart human changes over time
+
+Hey! I didn't know you could bash anywhere! I've been using shell entirely!
