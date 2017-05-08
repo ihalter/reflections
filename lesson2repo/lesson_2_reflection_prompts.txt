@@ -3,9 +3,14 @@ You need to log changes to that repository, otherwise it's just a folder.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+The staging area contains all the files you'd like to commit at once, which
+may not necessarily be all of the files in your working directory. It helps
+to allow bulk action without having to change the working directory and
+organize your repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+By comparing the staging area to working directory and latest commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
