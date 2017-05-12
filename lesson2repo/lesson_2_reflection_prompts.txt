@@ -14,11 +14,22 @@ By comparing the staging area to working directory and latest commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches can help separate different directions code can take or large changes in
+functionality, without breaking the original version. It keeps the running version
+stable for developers to mess around with other ones.
 
 How do the diagrams help you visualize the branch structure?
+The diagrams help track the course of changes and really help me to see
+what branches use what code was used at a point in time.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+It combines sets of logical changes into one new complete working codeset. The 
+visual shows exactly what commits are being combined to help troubleshoot the
+errors.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Pros are that automatic merging spikes out issues or different code added,
+however the cons are that for larger changes it can take forever to sort out
+coding changes and produce a working product.
